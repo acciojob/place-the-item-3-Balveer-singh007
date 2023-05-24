@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+section{
+	display:flex;
+	justify-content:space-evenly;
+}
+.item-1{
+	background-color:pink;
+	width:90px;
+	height:90px;
+}
+.item-2{
+	background-color:pink;
+	width:90px;
+	height:90px;
+}
+.item-3{
+	background-color:pink;
+	width:90px;
+	height:90px;
+}
